@@ -1,0 +1,12 @@
+People: ****
+Date: 2022.*.*
+Scene: ****
+Next Tasks:
+1:****
+2:****
+****
+
+People: Tom, a research engineer working at Inspir, living in an apartment alone. 
+Date: 2022.10.7
+Scene: Tom got Covid-19 and had a headache. He is sleeping on bed
+Next Tasks:
